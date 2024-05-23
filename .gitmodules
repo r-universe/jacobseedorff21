@@ -5,3 +5,6 @@
 [submodule "BranchGLM"]
 	path = BranchGLM
 	url = https://github.com/jacobseedorff21/branchglm
+[submodule "fastbackward"]
+	path = fastbackward
+	url = https://github.com/jacobseedorff21/fastbackward
